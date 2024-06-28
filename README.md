@@ -6,7 +6,7 @@
 
 ## Website Link
 
-You can access the Food Recipe App by following this link: [TastyBites](https://tastybitess.netlify.app/)
+You can access the Food Recipe App by following this link: [TastyBites](https://receipehelp.netlify.app/)
 
 # Screenshots
 ![1](https://github.com/AnkitJha13/Tasty-Bites/assets/116744896/85d0b959-f9a7-408b-b360-fffc77db30ea)
@@ -76,6 +76,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 # Contact
 If you have any questions or suggestions, feel free to reach out to the me .
 
-- Name: ANKIT KUMAR JHA
-- Email: ankitjha1403@gmail.com
+- Name: ANJALI
+- Email: jhaanjali0807@gmail.com
+  
 Thank you for using our TastyBites application!
