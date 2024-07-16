@@ -9,7 +9,7 @@
 You can access the Food Recipe App by following this link: [TastyBites](https://receipehelp.netlify.app/)
 
 # Screenshots
-![1](https://github.com/AnkitJha13/Tasty-Bites/assets/116744896/85d0b959-f9a7-408b-b360-fffc77db30ea)
+![1](https://receipehelp.netlify.app/)
 
 ![2](https://github.com/AnkitJha13/Tasty-Bites/assets/116744896/0d6bba70-ac1d-4cbb-97a5-e61061cdf86e)
 
