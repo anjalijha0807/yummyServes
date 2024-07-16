@@ -9,11 +9,11 @@
 You can access the Food Recipe App by following this link: [TastyBites](https://receipehelp.netlify.app/)
 
 # Screenshots
-![1](https://receipehelp.netlify.app/)
+![1](https://github.com/anjalijha0807/yummyServes/blob/main/images/Screenshot%202024-07-16%20225024.png)
 
-![2](https://github.com/anjalijha0807/Tasty-Bites/assets/116744896/0d6bba70-ac1d-4cbb-97a5-e61061cdf86e)
+![2](https://github.com/anjalijha0807/yummyServes/blob/main/images/Screenshot%202024-07-16%20225042.png)
 
-![3](https://github-production-user-asset-6210df.s3.amazonaws.com/116744896/267432813-1f81452c-90a1-47cf-b911-999bd3a71608.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240716T171505Z&X-Amz-Expires=300&X-Amz-Signature=318f8596123c18504df3f9361ee606d4e88c00ff6b471f9e00b1cf34616ce25b&X-Amz-SignedHeaders=host&actor_id=147158643&key_id=0&repo_id=6907)
+![3](https://github.com/anjalijha0807/yummyServes/blob/main/images/Screenshot%202024-07-16%20224957.png)
 
 
 
