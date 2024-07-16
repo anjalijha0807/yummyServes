@@ -11,7 +11,7 @@ You can access the Food Recipe App by following this link: [TastyBites](https://
 # Screenshots
 ![1](https://receipehelp.netlify.app/)
 
-![2](https://github.com/AnkitJha13/Tasty-Bites/assets/116744896/0d6bba70-ac1d-4cbb-97a5-e61061cdf86e)
+![2](https://github.com/anjalijha0807/Tasty-Bites/assets/116744896/0d6bba70-ac1d-4cbb-97a5-e61061cdf86e)
 
 ![3](https://github.com/AnkitJha13/Tasty-Bites/assets/116744896/1f81452c-90a1-47cf-b911-999bd3a71608)
 
